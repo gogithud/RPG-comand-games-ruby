@@ -78,7 +78,7 @@ if nunber == 2
        puts "減った"
        teki_hp = tekihp
        if 0 > tekihp
-        puts "買ったぞ！"
+        puts "勝ったぞ！"
        end
      end
      if kenhps == 0
